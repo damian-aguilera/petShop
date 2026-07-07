@@ -2,7 +2,7 @@
 
 Landing page de una sola página (one-page) para **PawLux**, marca ficticia de spa y estética premium para mascotas en Los Ángeles, CA. Proyecto de práctica enfocado en diseño de conversión: presentación de servicios, galería, testimonios y formulario de reservación de citas.
 
-**Demo en vivo:** https://damian7777777777.github.io/petShop/
+**Demo en vivo:** https://damian-aguilera.github.io/petShop/
 
 ## Capturas
 
